@@ -1,1 +1,3 @@
 *.lock
+.ruby-version
+.ruby-gemset

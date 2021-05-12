@@ -8,6 +8,9 @@
 	- rake
 - PostgreSQL
 
+Change postgresql username and password in config/database.yml
+
+Run each command in a terminal
 ```bash
 $ bundle install
 $ rake db:create
