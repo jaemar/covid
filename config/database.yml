@@ -1,0 +1,7 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  host: localhost
+  database: covid
+  username: postgres
+  password: postgres
