@@ -1,3 +1,4 @@
+config/database.yml
 *.lock
 .ruby-version
 .ruby-gemset

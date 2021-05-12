@@ -3,5 +3,5 @@ development:
   encoding: unicode
   host: localhost
   database: covid
-  username: 
-  password: 
+  username:
+  password:

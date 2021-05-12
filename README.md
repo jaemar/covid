@@ -2,6 +2,7 @@
 
  Tools
 - Ruby
+	- puma
 	- sinatra
 	- activerecord
 	- pg
